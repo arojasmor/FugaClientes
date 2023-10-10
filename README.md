@@ -20,3 +20,4 @@ Adicional a lo anterior, también, se hizo un **ensamble** con los siguientes mo
 
 Además, se elaboró un modelo para predecir el momento del abandono mediante un **análisis de supervivencia**.
 
+Para ver el código abrir el archivo Rmd y en una página web pulsar [aquí](https://rpubs.com/arojasmor17/abandono).
